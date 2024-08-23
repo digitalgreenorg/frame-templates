@@ -1,6 +1,6 @@
 ## License
 
-The datasets in this repository (Paddy_final data_2023.xlsx and Wheat_final data_2022-23.xlsx) are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
+All the datasets in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
 
 ### Attribution
 
